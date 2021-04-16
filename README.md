@@ -1,3 +1,3 @@
 # ECOMMERCE
 
-Redux 17th Video
+Redux 18th Video
