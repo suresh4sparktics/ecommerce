@@ -1,3 +1,3 @@
 # ECOMMERCE
 
-Redux 24th Video
+Master Redux Project 2
